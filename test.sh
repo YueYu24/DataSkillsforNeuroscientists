@@ -1,6 +1,7 @@
- 
 #!/bin/bash
 set -ex
+
+# This script is intended to run tests that the Python scripts and notebooks in this project work correctly.
 
 # Format and check Python files using ruff
 ruff format python/*.py

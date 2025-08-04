@@ -1,6 +1,8 @@
 # Data Skills for Neuroscientists
 
-This material accompanies the Powerpoint presentation for the UCL workshop on Data Skills for Neuroscientists.
+This material accompanies the Powerpoint presentation for the UCL Biosciences workshop on Data Skills for Neuroscientists.
+
+Please contact p.gleeson -at- ucl.ac.uk for more information. 
 
 ## Example Jupyter Notebook
 
