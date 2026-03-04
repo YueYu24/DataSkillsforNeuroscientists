@@ -18,4 +18,4 @@ There is a simple Jupyter Notebook in this repo showing plots of some example da
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenNeuroAI/DataSkillsforNeuroscientists/HEAD)
 
 
-Suggestion: Try this on Visual Stidio Code
+Suggestion: Try this on Visual Studio Code
